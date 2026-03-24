@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+}
+.kodak_gold1 img{
+    width: auto;
+    height: 100vh;
+    margin-left: 0;
+    border: 10px transparent;
+}
+#scroll_container {
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100vw;
+    height: 100vh;
+    white-space: nowrap;
+}
